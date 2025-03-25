@@ -1,3 +1,9 @@
+# Ignore application output
+extracted/
+database/
+data/
+downloads/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

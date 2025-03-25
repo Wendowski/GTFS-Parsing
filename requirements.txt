@@ -1,0 +1,3 @@
+pandas==1.5.3          # For working with tabular data (e.g., CSV files)
+sqlite3               # SQLite database (comes pre-installed with Python)
+shutil                # For file operations (part of the Python Standard Library)
